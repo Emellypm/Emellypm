@@ -11,7 +11,6 @@
 ---
 
 ```bash
-~$ cat sobre.txt
   Aprendendo a transformar coca-cola em código 🥤
   Apaixonada por interfaces bonitas e bem feitas
 ```
