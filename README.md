@@ -26,7 +26,6 @@
 ---
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emellypm&show_icons=true&theme=tokyonight&title_color=ff6eb4&icon_color=ff6eb4&hide_border=true)
+username=Emellypm&show_icons=true&theme=tokyonight&title_color=ff6eb4&icon_color=ff6eb4&hide_border=true)
 
 </div>
