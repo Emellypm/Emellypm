@@ -26,6 +26,5 @@
 ---
 
 <div align="center">
-username=Emellypm&show_icons=true&theme=tokyonight&title_color=ff6eb4&icon_color=ff6eb4&hide_border=true)
 
 </div>
